@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3b08dc3.css",
+    "main.js": "/static/js/main.c7a32686.js",
+    "static/js/787.77f41025.chunk.js": "/static/js/787.77f41025.chunk.js",
+    "static/media/simLogo.png": "/static/media/simLogo.6b2330544e9a4dd451da.png",
+    "index.html": "/index.html",
+    "main.d3b08dc3.css.map": "/static/css/main.d3b08dc3.css.map",
+    "main.c7a32686.js.map": "/static/js/main.c7a32686.js.map",
+    "787.77f41025.chunk.js.map": "/static/js/787.77f41025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3b08dc3.css",
+    "static/js/main.c7a32686.js"
+  ]
+}
